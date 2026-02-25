@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-## Arash Kashef
+## Amirarash Kashef
 
 PhD Researcher | Machine Learning | Multimodal AI | Immersive Systems
 
