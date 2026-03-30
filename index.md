@@ -10,16 +10,22 @@ header:
 author_profile: true
 ---
 
-PhD Researcher | Machine Learning | Multimodal AI | Immersive Systems
+### PhD Researcher | Machine Learning | Multimodal AI | Immersive Systems
 
-I am a **PhD researcher and candidate** in Industrial and Systems Engineering specializing in multimodal machine learning, deep learning, and intelligent immersive systems. My research focuses on modeling cognitive and affective states using physiological signals (EEG), eye tracking, and computer vision to enhance learning, performance, and human–AI collaboration.
+I am a **PhD candidate in Industrial and Systems Engineering** specializing in **applied machine learning and data professional**. My work sits at the intersection of machine learning, human-centered computing, and real-world system deployment.
 
-I design and develop end-to-end machine learning systems, from data acquisition and preprocessing to model architecture design, validation, and real-time deployment in XR environments.
+My research focuses on **modeling human cognitive and affective states** using multimodal data, including EEG, eye tracking, and computer vision—to enhance learning, performance, and human–AI interaction. I am particularly interested in building systems that move beyond research prototypes into **scalable, real-time, user-facing applications**.
 
-### Research Interests:
-- Multimodal Learning Analytics
-- Human-State Modeling (EEG, Eye Tracking, Computer Vision)
-- Deep Learning & Representation Learning
-- Generative AI in Intelligent Systems
-- AI for Immersive Training and Simulation
-- Human–AI Collaboration
+I have hands-on experience designing and developing **end-to-end machine learning systems**, including data pipelines, feature engineering, deep learning architectures (CNNs, LSTMs), and real-time deployment in XR environments. My work has been applied in domains such as healthcare, training, and human performance analysis.
+
+Beyond research, I am passionate about **translating advanced AI methods into practical solutions** that deliver measurable impact. I enjoy working on complex, interdisciplinary problems that require both strong technical foundations and systems-level thinking.
+
+🚀 **I am currently seeking full-time industry opportunities** in Machine Learning Engineering, Data Science, Applied Science, and Data Engineering, where I can contribute to building scalable, high-impact AI systems.
+
+### Research Interests
+- Multimodal Machine Learning & Learning Analytics  
+- Human-State Modeling (EEG, Eye Tracking, Computer Vision)  
+- Deep Learning & Representation Learning  
+- Generative AI and Intelligent Systems  
+- AI for Immersive Training and Simulation  
+- Human–AI Collaboration  
