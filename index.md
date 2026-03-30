@@ -10,22 +10,67 @@ header:
 author_profile: true
 ---
 
-### PhD Researcher | Machine Learning | Multimodal AI | Immersive Systems
+# Hi, I'm Amirarash Kashef  
+### Applied Machine Learning | Data Scientist | Multimodal AI
 
-I am a **PhD candidate in Industrial and Systems Engineering** specializing in **applied machine learning and data professional**. My work sits at the intersection of machine learning, human-centered computing, and real-world system deployment.
+I am a **PhD candidate in Industrial and Systems Engineering** building **production-oriented machine learning systems** at the intersection of **AI, human-centered computing, and real-world deployment**.
 
-My research focuses on **modeling human cognitive and affective states** using multimodal data, including EEG, eye tracking, and computer vision—to enhance learning, performance, and human–AI interaction. I am particularly interested in building systems that move beyond research prototypes into **scalable, real-time, user-facing applications**.
+My work focuses on transforming advanced models into **scalable, real-time systems**—combining **computer vision, physiological signals (EEG, eye tracking), and deep learning** to model human behavior and cognition.
 
-I have hands-on experience designing and developing **end-to-end machine learning systems**, including data pipelines, feature engineering, deep learning architectures (CNNs, LSTMs), and real-time deployment in XR environments. My work has been applied in domains such as healthcare, training, and human performance analysis.
+🚀 **Currently seeking full-time industry roles** in:
+**Machine Learning Engineering · Data Science · Applied Science · Data Engineering**
 
-Beyond research, I am passionate about **translating advanced AI methods into practical solutions** that deliver measurable impact. I enjoy working on complex, interdisciplinary problems that require both strong technical foundations and systems-level thinking.
+---
 
-🚀 **I am currently seeking full-time industry opportunities** in Machine Learning Engineering, Data Science, Applied Science, and Data Engineering, where I can contribute to building scalable, high-impact AI systems.
+## What I Do
 
-### Research Interests
-- Multimodal Machine Learning & Learning Analytics  
-- Human-State Modeling (EEG, Eye Tracking, Computer Vision)  
-- Deep Learning & Representation Learning  
-- Generative AI and Intelligent Systems  
-- AI for Immersive Training and Simulation  
-- Human–AI Collaboration  
+- Design and deploy **end-to-end ML systems** (data → model → deployment)
+- Build **multimodal AI pipelines** integrating vision + time-series signals
+- Develop **real-time inference systems** in XR and interactive environments
+- Translate research into **scalable, high-impact applications**
+
+---
+
+## Selected Work
+
+### 🧠 Multimodal Cognitive State Modeling
+Built ML pipelines combining EEG, eye tracking, and heart rate data using LSTMs and temporal modeling to classify cognitive workload from high-frequency signals.
+
+### 🚗 Real-Time Distracted Driver Monitoring System
+Developed a computer vision system using transfer learning (MobileNet) for distraction detection, achieving **94% accuracy** and real-time performance in XR environments.
+
+### 🙂 Facial Expression Recognition in XR
+Designed a lightweight CNN architecture deployed on Microsoft HoloLens 2 for real-time emotion recognition using FER2013.
+
+### 🏥 AI for Healthcare Training (NSF Project)
+Developed an AI-enabled immersive VR system for geriatric nursing training, improving user engagement and training effectiveness.
+
+---
+
+## Technical Skills
+
+**Languages:** Python, R, SQL  
+**ML/AI:** PyTorch, TensorFlow, Scikit-learn, Hugging Face, Deep Learning, NLP, LLMs, Generative AI  
+**Data & Systems:** Data Pipelines, Feature Engineering, Time-Series Modeling, MLOps Fundamentals  
+**Tools:** OpenCV, Git, Linux, Excel  
+
+---
+
+## Publications & Research
+
+I have published work in areas including:
+- AI-enabled immersive systems
+- Healthcare analytics
+- Computer vision and multimodal learning
+- image processing 
+
+📄 *Full list available on Google Scholar*
+
+---
+
+## Let’s Connect
+
+I’m passionate about building **scalable AI systems that solve real-world problems** and am actively exploring opportunities in industry.
+
+📧 kashefamirarash@gmail.com  
+🔗 [LinkedIn](#) | [Google Scholar](#) | [GitHub](#)
