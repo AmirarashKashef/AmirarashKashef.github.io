@@ -72,5 +72,4 @@ I have published work in areas including:
 
 I’m passionate about building **scalable AI systems that solve real-world problems** and am actively exploring opportunities in industry.
 
-📧 kashefamirarash@gmail.com  
-🔗 [LinkedIn](#) | [Google Scholar](#) | [GitHub](#)
+---
