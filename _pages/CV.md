@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 layout: single
-permalink: /CV/
+permalink: /Resume/
 author_profile: true
 ---
 <h2>My resume</h2>
