@@ -6,7 +6,7 @@ author_profile: true
 ---
 <h2>My resume</h2>
 <p>
-  <a href="/assets/Amirarash_Kashef_Resume_2026.pdf" target="_blank" class="btn btn--primary">
+  <a href="/assets/Amirarash Kashef-Resume..pdf" target="_blank" class="btn btn--primary">
     Download My Resume (PDF)
   </a>
 </p>
