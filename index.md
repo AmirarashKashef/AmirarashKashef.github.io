@@ -13,9 +13,9 @@ author_profile: true
 # Hi, I'm Amirarash Kashef  
 ### Applied Machine Learning | Data Scientist | Multimodal AI
 
-I am a **PhD candidate in Industrial and Systems Engineering** building **production-oriented machine learning systems** at the intersection of **AI, human-centered computing, and real-world deployment**.
+I have a **PhD in Industrial and Systems Engineering, Minor PhD in Computer Science** building **production-oriented machine learning systems** at the intersection of **AI, human-centered computing, and real-world deployment**.
 
-My work focuses on transforming advanced models into **scalable, real-time systems**—combining **computer vision, physiological signals (EEG, eye tracking), and deep learning** to model human behavior and cognition.
+My work focuses on transforming advanced models into **scalable, real-time systems**—combining **Machine Learning, computer vision, physiological signals (EEG, eye tracking), and deep learning** to model human behavior and cognition.
 
 🚀 **Currently seeking full-time industry roles** in:
 **Machine Learning Engineering · Data Science · Applied Science · Data Engineering**
