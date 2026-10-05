@@ -61,11 +61,11 @@ author:
   bio    : "Ph.D. in Industrial and Systems Engineering and Computer Science with 4+ years of experience in AI and machine learning, seeking roles in Machine Learning, Data Science, Data Engineering, and AI engieering"
   links:
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-wbesite"
+      icon: "fas fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=DPY8HGAAAAAJ&hl=en"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/amirarash-kashef-402786125/"
+      url: "https://www.linkedin.com/in/amirarash-kashef-ph-d-402786125/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AmirarashKashef"
